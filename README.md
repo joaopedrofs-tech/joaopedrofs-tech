@@ -1,5 +1,5 @@
 # 💫 joao pedro:
-🔭 Atualmente estou trabalhando evoluir meu aprendizado sobre tecnologia<br>👯 Estou procurando colaborar em pequenos projetos de iniciantes assim como eu<br>🤝 Preciso de ajuda, ainda não sei digitar códigos muito bem<br>🌱 Atualmente estou aprendendo o básico do python<br>⚡ jogo xadrez
+🔭 Atualmente estou estudando para evoluir meu aprendizado sobre tecnologia<br>👯 Estou procurando colaborar em pequenos projetos de iniciantes assim como eu<br>🌱 Atualmente estou aprendendo o básico de python<br>⚡ jogo xadrez
 
 
 ## 🌐 Socials:
